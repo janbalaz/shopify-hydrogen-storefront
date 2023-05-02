@@ -1,0 +1,2774 @@
+{
+    "orders": [
+        {
+            "id": 5297454973250,
+            "name": "#1017",
+            "note": null,
+            "tags": "",
+            "test": false,
+            "email": "jan.balaz@gorgias.com",
+            "phone": null,
+            "token": "7f439f173543b78c312bb85cee50fed6",
+            "app_id": 1354745,
+            "number": 17,
+            "company": null,
+            "refunds": [],
+            "user_id": 93211722050,
+            "currency": "USD",
+            "customer": {
+                "id": 6792584331586,
+                "note": "",
+                "tags": "",
+                "email": "jan.balaz@gorgias.com",
+                "phone": null,
+                "state": "disabled",
+                "currency": "USD",
+                "last_name": "Test4",
+                "created_at": "2023-02-27T03:42:49-05:00",
+                "first_name": null,
+                "tax_exempt": false,
+                "updated_at": "2023-04-27T07:07:16-04:00",
+                "tax_exemptions": [],
+                "verified_email": true,
+                "default_address": {
+                    "id": 9116289106242,
+                    "zip": "02151",
+                    "city": "Revere",
+                    "name": "Test6",
+                    "phone": null,
+                    "company": null,
+                    "country": "United States",
+                    "default": true,
+                    "address1": "Revere Beach",
+                    "address2": null,
+                    "province": "Massachusetts",
+                    "last_name": "Test6",
+                    "first_name": null,
+                    "customer_id": 6792584331586,
+                    "country_code": "US",
+                    "country_name": "United States",
+                    "province_code": "MA"
+                },
+                "accepts_marketing": false,
+                "admin_graphql_api_id": "gid://shopify/Customer/6792584331586",
+                "multipass_identifier": null,
+                "sms_marketing_consent": null,
+                "marketing_opt_in_level": null,
+                "email_marketing_consent": {
+                    "state": "not_subscribed",
+                    "opt_in_level": "single_opt_in",
+                    "consent_updated_at": null
+                },
+                "accepts_marketing_updated_at": "2023-02-27T03:42:49-05:00"
+            },
+            "closed_at": null,
+            "confirmed": true,
+            "device_id": null,
+            "reference": "9f4a9f458b08b48ed0b7660fbda0bd74",
+            "tax_lines": [],
+            "total_tax": "0.00",
+            "browser_ip": "78.80.80.104",
+            "cart_token": null,
+            "created_at": "2023-04-27T07:07:15-04:00",
+            "line_items": [
+                {
+                    "id": 13850275152194,
+                    "sku": "",
+                    "name": "The Multi-location Snowboard",
+                    "grams": 0,
+                    "price": "729.95",
+                    "title": "The Multi-location Snowboard",
+                    "duties": [],
+                    "vendor": "janbalaz-test-2",
+                    "taxable": true,
+                    "quantity": 1,
+                    "gift_card": false,
+                    "price_set": {
+                        "shop_money": {
+                            "amount": "729.95",
+                            "currency_code": "USD"
+                        },
+                        "presentment_money": {
+                            "amount": "729.95",
+                            "currency_code": "USD"
+                        }
+                    },
+                    "tax_lines": [],
+                    "product_id": 8156464546114,
+                    "properties": [],
+                    "variant_id": 44612949901634,
+                    "variant_title": null,
+                    "product_exists": true,
+                    "total_discount": "0.00",
+                    "requires_shipping": true,
+                    "fulfillment_status": null,
+                    "total_discount_set": {
+                        "shop_money": {
+                            "amount": "0.00",
+                            "currency_code": "USD"
+                        },
+                        "presentment_money": {
+                            "amount": "0.00",
+                            "currency_code": "USD"
+                        }
+                    },
+                    "fulfillment_service": "manual",
+                    "admin_graphql_api_id": "gid://shopify/LineItem/13850275152194",
+                    "discount_allocations": [],
+                    "fulfillable_quantity": 1,
+                    "variant_inventory_management": "shopify"
+                }
+            ],
+            "source_url": null,
+            "updated_at": "2023-04-27T07:07:16-04:00",
+            "checkout_id": 36721770234178,
+            "location_id": null,
+            "source_name": "shopify_draft_order",
+            "total_price": "729.95",
+            "cancelled_at": null,
+            "fulfillments": [],
+            "landing_site": null,
+            "order_number": 1017,
+            "processed_at": "2023-04-27T07:07:15-04:00",
+            "total_weight": 0,
+            "cancel_reason": null,
+            "contact_email": "jan.balaz@gorgias.com",
+            "payment_terms": null,
+            "total_tax_set": {
+                "shop_money": {
+                    "amount": "0.00",
+                    "currency_code": "USD"
+                },
+                "presentment_money": {
+                    "amount": "0.00",
+                    "currency_code": "USD"
+                }
+            },
+            "checkout_token": "5a9ef3ce8071078fd9b880dbf2dae64b",
+            "client_details": {
+                "browser_ip": "78.80.80.104",
+                "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36",
+                "session_hash": null,
+                "browser_width": null,
+                "browser_height": null,
+                "accept_language": null
+            },
+            "discount_codes": [],
+            "referring_site": null,
+            "shipping_lines": [],
+            "subtotal_price": "729.95",
+            "taxes_included": false,
+            "billing_address": {
+                "zip": "02151",
+                "city": "Revere",
+                "name": "Test6",
+                "phone": null,
+                "company": null,
+                "country": "United States",
+                "address1": "Revere Beach",
+                "address2": null,
+                "latitude": null,
+                "province": "Massachusetts",
+                "last_name": "Test6",
+                "longitude": null,
+                "first_name": null,
+                "country_code": "US",
+                "province_code": "MA"
+            },
+            "customer_locale": "en",
+            "estimated_taxes": false,
+            "note_attributes": [],
+            "total_discounts": "0.00",
+            "total_price_set": {
+                "shop_money": {
+                    "amount": "729.95",
+                    "currency_code": "USD"
+                },
+                "presentment_money": {
+                    "amount": "729.95",
+                    "currency_code": "USD"
+                }
+            },
+            "financial_status": "paid",
+            "landing_site_ref": null,
+            "order_status_url": "https://janbalaz-test-2.myshopify.com/72920629570/orders/7f439f173543b78c312bb85cee50fed6/authenticate?key=cf31f7b4dbc837d2fe62426bad95fe4f",
+            "shipping_address": {
+                "zip": "02151",
+                "city": "Revere",
+                "name": "Test6",
+                "phone": null,
+                "company": null,
+                "country": "United States",
+                "address1": "Revere Beach",
+                "address2": null,
+                "latitude": 42.4255431,
+                "province": "Massachusetts",
+                "last_name": "Test6",
+                "longitude": -70.98146270000001,
+                "first_name": null,
+                "country_code": "US",
+                "province_code": "MA"
+            },
+            "current_total_tax": "0.00",
+            "source_identifier": "9f4a9f458b08b48ed0b7660fbda0bd74",
+            "total_outstanding": "0.00",
+            "fulfillment_status": null,
+            "subtotal_price_set": {
+                "shop_money": {
+                    "amount": "729.95",
+                    "currency_code": "USD"
+                },
+                "presentment_money": {
+                    "amount": "729.95",
+                    "currency_code": "USD"
+                }
+            },
+            "total_tip_received": "0.00",
+            "current_total_price": "729.95",
+            "total_discounts_set": {
+                "shop_money": {
+                    "amount": "0.00",
+                    "currency_code": "USD"
+                },
+                "presentment_money": {
+                    "amount": "0.00",
+                    "currency_code": "USD"
+                }
+            },
+            "admin_graphql_api_id": "gid://shopify/Order/5297454973250",
+            "presentment_currency": "USD",
+            "current_total_tax_set": {
+                "shop_money": {
+                    "amount": "0.00",
+                    "currency_code": "USD"
+                },
+                "presentment_money": {
+                    "amount": "0.00",
+                    "currency_code": "USD"
+                }
+            },
+            "discount_applications": [],
+            "payment_gateway_names": [
+                "manual"
+            ],
+            "current_subtotal_price": "729.95",
+            "total_line_items_price": "729.95",
+            "buyer_accepts_marketing": false,
+            "current_total_discounts": "0.00",
+            "current_total_price_set": {
+                "shop_money": {
+                    "amount": "729.95",
+                    "currency_code": "USD"
+                },
+                "presentment_money": {
+                    "amount": "729.95",
+                    "currency_code": "USD"
+                }
+            },
+            "current_total_duties_set": null,
+            "total_shipping_price_set": {
+                "shop_money": {
+                    "amount": "0.00",
+                    "currency_code": "USD"
+                },
+                "presentment_money": {
+                    "amount": "0.00",
+                    "currency_code": "USD"
+                }
+            },
+            "merchant_of_record_app_id": null,
+            "original_total_duties_set": null,
+            "current_subtotal_price_set": {
+                "shop_money": {
+                    "amount": "729.95",
+                    "currency_code": "USD"
+                },
+                "presentment_money": {
+                    "amount": "729.95",
+                    "currency_code": "USD"
+                }
+            },
+            "total_line_items_price_set": {
+                "shop_money": {
+                    "amount": "729.95",
+                    "currency_code": "USD"
+                },
+                "presentment_money": {
+                    "amount": "729.95",
+                    "currency_code": "USD"
+                }
+            },
+            "current_total_discounts_set": {
+                "shop_money": {
+                    "amount": "0.00",
+                    "currency_code": "USD"
+                },
+                "presentment_money": {
+                    "amount": "0.00",
+                    "currency_code": "USD"
+                }
+            },
+            "current_total_additional_fees_set": null,
+            "original_total_additional_fees_set": null
+        },
+        {
+            "id": 5297435443522,
+            "name": "#1016",
+            "note": null,
+            "tags": "",
+            "test": true,
+            "email": "jan.balaz@gorgias.com",
+            "phone": null,
+            "token": "2b9b45cfec5a19dcd6413d9ae2da52f2",
+            "app_id": 12875497473,
+            "number": 16,
+            "company": null,
+            "refunds": [],
+            "user_id": null,
+            "currency": "USD",
+            "customer": {
+                "id": 6792584331586,
+                "note": "",
+                "tags": "",
+                "email": "jan.balaz@gorgias.com",
+                "phone": null,
+                "state": "disabled",
+                "currency": "USD",
+                "last_name": "Test4",
+                "created_at": "2023-02-27T03:42:49-05:00",
+                "first_name": null,
+                "tax_exempt": false,
+                "updated_at": "2023-04-27T06:00:33-04:00",
+                "tax_exemptions": [],
+                "verified_email": true,
+                "default_address": {
+                    "id": 9116302344514,
+                    "zip": "02151",
+                    "city": "Revere",
+                    "name": "Test7",
+                    "phone": null,
+                    "company": null,
+                    "country": "United States",
+                    "default": true,
+                    "address1": "Revere Beach",
+                    "address2": null,
+                    "province": "Massachusetts",
+                    "last_name": "Test7",
+                    "first_name": null,
+                    "customer_id": 6792584331586,
+                    "country_code": "US",
+                    "country_name": "United States",
+                    "province_code": "MA"
+                },
+                "accepts_marketing": false,
+                "admin_graphql_api_id": "gid://shopify/Customer/6792584331586",
+                "multipass_identifier": null,
+                "sms_marketing_consent": null,
+                "marketing_opt_in_level": null,
+                "email_marketing_consent": {
+                    "state": "not_subscribed",
+                    "opt_in_level": "single_opt_in",
+                    "consent_updated_at": null
+                },
+                "accepts_marketing_updated_at": "2023-02-27T03:42:49-05:00"
+            },
+            "closed_at": null,
+            "confirmed": true,
+            "device_id": null,
+            "reference": "d20349888f1a44886061cf85ff7c2097",
+            "tax_lines": [],
+            "total_tax": "0.00",
+            "browser_ip": "78.80.80.104",
+            "cart_token": "c1-f4013ba8173d2ccff5a5bd731064e4ed",
+            "created_at": "2023-04-27T06:00:33-04:00",
+            "line_items": [
+                {
+                    "id": 13850236191042,
+                    "sku": "",
+                    "name": "The Multi-location Snowboard",
+                    "grams": 0,
+                    "price": "729.95",
+                    "title": "The Multi-location Snowboard",
+                    "duties": [],
+                    "vendor": "janbalaz-test-2",
+                    "taxable": true,
+                    "quantity": 1,
+                    "gift_card": false,
+                    "price_set": {
+                        "shop_money": {
+                            "amount": "729.95",
+                            "currency_code": "USD"
+                        },
+                        "presentment_money": {
+                            "amount": "729.95",
+                            "currency_code": "USD"
+                        }
+                    },
+                    "tax_lines": [],
+                    "product_id": 8156464546114,
+                    "properties": [],
+                    "variant_id": 44612949901634,
+                    "variant_title": null,
+                    "product_exists": true,
+                    "total_discount": "0.00",
+                    "requires_shipping": true,
+                    "fulfillment_status": null,
+                    "total_discount_set": {
+                        "shop_money": {
+                            "amount": "0.00",
+                            "currency_code": "USD"
+                        },
+                        "presentment_money": {
+                            "amount": "0.00",
+                            "currency_code": "USD"
+                        }
+                    },
+                    "fulfillment_service": "manual",
+                    "admin_graphql_api_id": "gid://shopify/LineItem/13850236191042",
+                    "discount_allocations": [],
+                    "fulfillable_quantity": 1,
+                    "variant_inventory_management": "shopify"
+                }
+            ],
+            "source_url": null,
+            "updated_at": "2023-04-27T06:00:34-04:00",
+            "checkout_id": 36721713873218,
+            "location_id": null,
+            "source_name": "12875497473",
+            "total_price": "729.95",
+            "cancelled_at": null,
+            "fulfillments": [],
+            "landing_site": "/checkouts/cn/c1-f4013ba8173d2ccff5a5bd731064e4ed",
+            "order_number": 1016,
+            "processed_at": "2023-04-27T06:00:32-04:00",
+            "total_weight": 0,
+            "cancel_reason": null,
+            "contact_email": "jan.balaz@gorgias.com",
+            "payment_terms": null,
+            "total_tax_set": {
+                "shop_money": {
+                    "amount": "0.00",
+                    "currency_code": "USD"
+                },
+                "presentment_money": {
+                    "amount": "0.00",
+                    "currency_code": "USD"
+                }
+            },
+            "checkout_token": "693eba3d8d9cfd775451485af1125e95",
+            "client_details": {
+                "browser_ip": "78.80.80.104",
+                "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36",
+                "session_hash": null,
+                "browser_width": null,
+                "browser_height": null,
+                "accept_language": "en-US"
+            },
+            "discount_codes": [],
+            "referring_site": "http://localhost:3000/",
+            "shipping_lines": [
+                {
+                    "id": 4335745368386,
+                    "code": "Economy",
+                    "phone": null,
+                    "price": "0.00",
+                    "title": "Economy",
+                    "source": "shopify",
+                    "price_set": {
+                        "shop_money": {
+                            "amount": "0.00",
+                            "currency_code": "USD"
+                        },
+                        "presentment_money": {
+                            "amount": "0.00",
+                            "currency_code": "USD"
+                        }
+                    },
+                    "tax_lines": [],
+                    "discounted_price": "0.00",
+                    "delivery_category": null,
+                    "carrier_identifier": "2ffa3e5d7e0311e260c10350738dd1f0",
+                    "discount_allocations": [],
+                    "discounted_price_set": {
+                        "shop_money": {
+                            "amount": "0.00",
+                            "currency_code": "USD"
+                        },
+                        "presentment_money": {
+                            "amount": "0.00",
+                            "currency_code": "USD"
+                        }
+                    },
+                    "requested_fulfillment_service_id": null
+                }
+            ],
+            "subtotal_price": "729.95",
+            "taxes_included": false,
+            "billing_address": {
+                "zip": "02151",
+                "city": "Revere",
+                "name": "Test7",
+                "phone": null,
+                "company": null,
+                "country": "United States",
+                "address1": "Revere Beach",
+                "address2": null,
+                "latitude": 42.4255431,
+                "province": "Massachusetts",
+                "last_name": "Test7",
+                "longitude": -70.98146270000001,
+                "first_name": null,
+                "country_code": "US",
+                "province_code": "MA"
+            },
+            "customer_locale": "en",
+            "estimated_taxes": false,
+            "note_attributes": [
+                {
+                    "name": "attemptXXX",
+                    "value": "yyy3"
+                }
+            ],
+            "total_discounts": "0.00",
+            "total_price_set": {
+                "shop_money": {
+                    "amount": "729.95",
+                    "currency_code": "USD"
+                },
+                "presentment_money": {
+                    "amount": "729.95",
+                    "currency_code": "USD"
+                }
+            },
+            "financial_status": "paid",
+            "landing_site_ref": null,
+            "order_status_url": "https://janbalaz-test-2.myshopify.com/72920629570/orders/2b9b45cfec5a19dcd6413d9ae2da52f2/authenticate?key=03b0758e8a2966ab5fd65b57dc4a1bf8",
+            "shipping_address": {
+                "zip": "02151",
+                "city": "Revere",
+                "name": "Test7",
+                "phone": null,
+                "company": null,
+                "country": "United States",
+                "address1": "Revere Beach",
+                "address2": null,
+                "latitude": null,
+                "province": "Massachusetts",
+                "last_name": "Test7",
+                "longitude": null,
+                "first_name": null,
+                "country_code": "US",
+                "province_code": "MA"
+            },
+            "current_total_tax": "0.00",
+            "source_identifier": "d20349888f1a44886061cf85ff7c2097",
+            "total_outstanding": "0.00",
+            "fulfillment_status": null,
+            "subtotal_price_set": {
+                "shop_money": {
+                    "amount": "729.95",
+                    "currency_code": "USD"
+                },
+                "presentment_money": {
+                    "amount": "729.95",
+                    "currency_code": "USD"
+                }
+            },
+            "total_tip_received": "0.00",
+            "current_total_price": "729.95",
+            "total_discounts_set": {
+                "shop_money": {
+                    "amount": "0.00",
+                    "currency_code": "USD"
+                },
+                "presentment_money": {
+                    "amount": "0.00",
+                    "currency_code": "USD"
+                }
+            },
+            "admin_graphql_api_id": "gid://shopify/Order/5297435443522",
+            "presentment_currency": "USD",
+            "current_total_tax_set": {
+                "shop_money": {
+                    "amount": "0.00",
+                    "currency_code": "USD"
+                },
+                "presentment_money": {
+                    "amount": "0.00",
+                    "currency_code": "USD"
+                }
+            },
+            "discount_applications": [],
+            "payment_gateway_names": [
+                "bogus"
+            ],
+            "current_subtotal_price": "729.95",
+            "total_line_items_price": "729.95",
+            "buyer_accepts_marketing": false,
+            "current_total_discounts": "0.00",
+            "current_total_price_set": {
+                "shop_money": {
+                    "amount": "729.95",
+                    "currency_code": "USD"
+                },
+                "presentment_money": {
+                    "amount": "729.95",
+                    "currency_code": "USD"
+                }
+            },
+            "current_total_duties_set": null,
+            "total_shipping_price_set": {
+                "shop_money": {
+                    "amount": "0.00",
+                    "currency_code": "USD"
+                },
+                "presentment_money": {
+                    "amount": "0.00",
+                    "currency_code": "USD"
+                }
+            },
+            "merchant_of_record_app_id": null,
+            "original_total_duties_set": null,
+            "current_subtotal_price_set": {
+                "shop_money": {
+                    "amount": "729.95",
+                    "currency_code": "USD"
+                },
+                "presentment_money": {
+                    "amount": "729.95",
+                    "currency_code": "USD"
+                }
+            },
+            "total_line_items_price_set": {
+                "shop_money": {
+                    "amount": "729.95",
+                    "currency_code": "USD"
+                },
+                "presentment_money": {
+                    "amount": "729.95",
+                    "currency_code": "USD"
+                }
+            },
+            "current_total_discounts_set": {
+                "shop_money": {
+                    "amount": "0.00",
+                    "currency_code": "USD"
+                },
+                "presentment_money": {
+                    "amount": "0.00",
+                    "currency_code": "USD"
+                }
+            },
+            "current_total_additional_fees_set": null,
+            "original_total_additional_fees_set": null
+        },
+        {
+            "id": 5297424466242,
+            "name": "#1015",
+            "note": null,
+            "tags": "",
+            "test": true,
+            "email": "jan.balaz@gorgias.com",
+            "phone": null,
+            "token": "c101da9898bad63f72de0efa63c907f3",
+            "app_id": 12875497473,
+            "number": 15,
+            "company": null,
+            "refunds": [],
+            "user_id": null,
+            "currency": "USD",
+            "customer": {
+                "id": 6792584331586,
+                "note": "",
+                "tags": "",
+                "email": "jan.balaz@gorgias.com",
+                "phone": null,
+                "state": "disabled",
+                "currency": "USD",
+                "last_name": "Test4",
+                "created_at": "2023-02-27T03:42:49-05:00",
+                "first_name": null,
+                "tax_exempt": false,
+                "updated_at": "2023-04-27T05:21:28-04:00",
+                "tax_exemptions": [],
+                "verified_email": true,
+                "default_address": {
+                    "id": 9116289106242,
+                    "zip": "02151",
+                    "city": "Revere",
+                    "name": "Test6",
+                    "phone": null,
+                    "company": null,
+                    "country": "United States",
+                    "default": true,
+                    "address1": "Revere Beach",
+                    "address2": null,
+                    "province": "Massachusetts",
+                    "last_name": "Test6",
+                    "first_name": null,
+                    "customer_id": 6792584331586,
+                    "country_code": "US",
+                    "country_name": "United States",
+                    "province_code": "MA"
+                },
+                "accepts_marketing": false,
+                "admin_graphql_api_id": "gid://shopify/Customer/6792584331586",
+                "multipass_identifier": null,
+                "sms_marketing_consent": null,
+                "marketing_opt_in_level": null,
+                "email_marketing_consent": {
+                    "state": "not_subscribed",
+                    "opt_in_level": "single_opt_in",
+                    "consent_updated_at": null
+                },
+                "accepts_marketing_updated_at": "2023-02-27T03:42:49-05:00"
+            },
+            "closed_at": null,
+            "confirmed": true,
+            "device_id": null,
+            "reference": "ec8f7c8c5755b5a6320910ee33c9101e",
+            "tax_lines": [],
+            "total_tax": "0.00",
+            "browser_ip": "78.80.80.104",
+            "cart_token": "c1-e691aa6e71c430adcfe5534e1990d2e6",
+            "created_at": "2023-04-27T05:21:28-04:00",
+            "line_items": [
+                {
+                    "id": 13850219184450,
+                    "sku": "",
+                    "name": "The Multi-location Snowboard",
+                    "grams": 0,
+                    "price": "729.95",
+                    "title": "The Multi-location Snowboard",
+                    "duties": [],
+                    "vendor": "janbalaz-test-2",
+                    "taxable": true,
+                    "quantity": 1,
+                    "gift_card": false,
+                    "price_set": {
+                        "shop_money": {
+                            "amount": "729.95",
+                            "currency_code": "USD"
+                        },
+                        "presentment_money": {
+                            "amount": "729.95",
+                            "currency_code": "USD"
+                        }
+                    },
+                    "tax_lines": [],
+                    "product_id": 8156464546114,
+                    "properties": [],
+                    "variant_id": 44612949901634,
+                    "variant_title": null,
+                    "product_exists": true,
+                    "total_discount": "0.00",
+                    "requires_shipping": true,
+                    "fulfillment_status": null,
+                    "total_discount_set": {
+                        "shop_money": {
+                            "amount": "0.00",
+                            "currency_code": "USD"
+                        },
+                        "presentment_money": {
+                            "amount": "0.00",
+                            "currency_code": "USD"
+                        }
+                    },
+                    "fulfillment_service": "manual",
+                    "admin_graphql_api_id": "gid://shopify/LineItem/13850219184450",
+                    "discount_allocations": [],
+                    "fulfillable_quantity": 1,
+                    "variant_inventory_management": "shopify"
+                }
+            ],
+            "source_url": null,
+            "updated_at": "2023-04-27T05:21:29-04:00",
+            "checkout_id": 36721687593282,
+            "location_id": null,
+            "source_name": "12875497473",
+            "total_price": "729.95",
+            "cancelled_at": null,
+            "fulfillments": [],
+            "landing_site": "/checkouts/cn/c1-62766bea0f08a5add4305f21f91a3ebe",
+            "order_number": 1015,
+            "processed_at": "2023-04-27T05:21:26-04:00",
+            "total_weight": 0,
+            "cancel_reason": null,
+            "contact_email": "jan.balaz@gorgias.com",
+            "payment_terms": null,
+            "total_tax_set": {
+                "shop_money": {
+                    "amount": "0.00",
+                    "currency_code": "USD"
+                },
+                "presentment_money": {
+                    "amount": "0.00",
+                    "currency_code": "USD"
+                }
+            },
+            "checkout_token": "1f4340d14c86e2439b59267517923284",
+            "client_details": {
+                "browser_ip": "78.80.80.104",
+                "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36",
+                "session_hash": null,
+                "browser_width": null,
+                "browser_height": null,
+                "accept_language": "en-US"
+            },
+            "discount_codes": [],
+            "referring_site": "http://localhost:3000/",
+            "shipping_lines": [
+                {
+                    "id": 4335736422722,
+                    "code": "Economy",
+                    "phone": null,
+                    "price": "0.00",
+                    "title": "Economy",
+                    "source": "shopify",
+                    "price_set": {
+                        "shop_money": {
+                            "amount": "0.00",
+                            "currency_code": "USD"
+                        },
+                        "presentment_money": {
+                            "amount": "0.00",
+                            "currency_code": "USD"
+                        }
+                    },
+                    "tax_lines": [],
+                    "discounted_price": "0.00",
+                    "delivery_category": null,
+                    "carrier_identifier": "2ffa3e5d7e0311e260c10350738dd1f0",
+                    "discount_allocations": [],
+                    "discounted_price_set": {
+                        "shop_money": {
+                            "amount": "0.00",
+                            "currency_code": "USD"
+                        },
+                        "presentment_money": {
+                            "amount": "0.00",
+                            "currency_code": "USD"
+                        }
+                    },
+                    "requested_fulfillment_service_id": null
+                }
+            ],
+            "subtotal_price": "729.95",
+            "taxes_included": false,
+            "billing_address": {
+                "zip": "02151",
+                "city": "Revere",
+                "name": "Test6",
+                "phone": null,
+                "company": null,
+                "country": "United States",
+                "address1": "Revere Beach",
+                "address2": null,
+                "latitude": null,
+                "province": "Massachusetts",
+                "last_name": "Test6",
+                "longitude": null,
+                "first_name": null,
+                "country_code": "US",
+                "province_code": "MA"
+            },
+            "customer_locale": "en",
+            "estimated_taxes": false,
+            "note_attributes": [],
+            "total_discounts": "0.00",
+            "total_price_set": {
+                "shop_money": {
+                    "amount": "729.95",
+                    "currency_code": "USD"
+                },
+                "presentment_money": {
+                    "amount": "729.95",
+                    "currency_code": "USD"
+                }
+            },
+            "financial_status": "paid",
+            "landing_site_ref": null,
+            "order_status_url": "https://janbalaz-test-2.myshopify.com/72920629570/orders/c101da9898bad63f72de0efa63c907f3/authenticate?key=3e62b5abf848b55ee19dca918dbb2661",
+            "shipping_address": {
+                "zip": "02151",
+                "city": "Revere",
+                "name": "Test6",
+                "phone": null,
+                "company": null,
+                "country": "United States",
+                "address1": "Revere Beach",
+                "address2": null,
+                "latitude": 42.4255431,
+                "province": "Massachusetts",
+                "last_name": "Test6",
+                "longitude": -70.98146270000001,
+                "first_name": null,
+                "country_code": "US",
+                "province_code": "MA"
+            },
+            "current_total_tax": "0.00",
+            "source_identifier": "ec8f7c8c5755b5a6320910ee33c9101e",
+            "total_outstanding": "0.00",
+            "fulfillment_status": null,
+            "subtotal_price_set": {
+                "shop_money": {
+                    "amount": "729.95",
+                    "currency_code": "USD"
+                },
+                "presentment_money": {
+                    "amount": "729.95",
+                    "currency_code": "USD"
+                }
+            },
+            "total_tip_received": "0.00",
+            "current_total_price": "729.95",
+            "total_discounts_set": {
+                "shop_money": {
+                    "amount": "0.00",
+                    "currency_code": "USD"
+                },
+                "presentment_money": {
+                    "amount": "0.00",
+                    "currency_code": "USD"
+                }
+            },
+            "admin_graphql_api_id": "gid://shopify/Order/5297424466242",
+            "presentment_currency": "USD",
+            "current_total_tax_set": {
+                "shop_money": {
+                    "amount": "0.00",
+                    "currency_code": "USD"
+                },
+                "presentment_money": {
+                    "amount": "0.00",
+                    "currency_code": "USD"
+                }
+            },
+            "discount_applications": [],
+            "payment_gateway_names": [
+                "bogus"
+            ],
+            "current_subtotal_price": "729.95",
+            "total_line_items_price": "729.95",
+            "buyer_accepts_marketing": false,
+            "current_total_discounts": "0.00",
+            "current_total_price_set": {
+                "shop_money": {
+                    "amount": "729.95",
+                    "currency_code": "USD"
+                },
+                "presentment_money": {
+                    "amount": "729.95",
+                    "currency_code": "USD"
+                }
+            },
+            "current_total_duties_set": null,
+            "total_shipping_price_set": {
+                "shop_money": {
+                    "amount": "0.00",
+                    "currency_code": "USD"
+                },
+                "presentment_money": {
+                    "amount": "0.00",
+                    "currency_code": "USD"
+                }
+            },
+            "merchant_of_record_app_id": null,
+            "original_total_duties_set": null,
+            "current_subtotal_price_set": {
+                "shop_money": {
+                    "amount": "729.95",
+                    "currency_code": "USD"
+                },
+                "presentment_money": {
+                    "amount": "729.95",
+                    "currency_code": "USD"
+                }
+            },
+            "total_line_items_price_set": {
+                "shop_money": {
+                    "amount": "729.95",
+                    "currency_code": "USD"
+                },
+                "presentment_money": {
+                    "amount": "729.95",
+                    "currency_code": "USD"
+                }
+            },
+            "current_total_discounts_set": {
+                "shop_money": {
+                    "amount": "0.00",
+                    "currency_code": "USD"
+                },
+                "presentment_money": {
+                    "amount": "0.00",
+                    "currency_code": "USD"
+                }
+            },
+            "current_total_additional_fees_set": null,
+            "original_total_additional_fees_set": null
+        },
+        {
+            "id": 5297423941954,
+            "name": "#1014",
+            "note": null,
+            "tags": "",
+            "test": false,
+            "email": "jan.balaz@gorgias.com",
+            "phone": null,
+            "token": "588dfc04074f544df479cbb5fab2f240",
+            "app_id": 1354745,
+            "number": 14,
+            "company": null,
+            "refunds": [],
+            "user_id": 93211722050,
+            "currency": "USD",
+            "customer": {
+                "id": 6792584331586,
+                "note": "",
+                "tags": "",
+                "email": "jan.balaz@gorgias.com",
+                "phone": null,
+                "state": "disabled",
+                "currency": "USD",
+                "last_name": "Test4",
+                "created_at": "2023-02-27T03:42:49-05:00",
+                "first_name": null,
+                "tax_exempt": false,
+                "updated_at": "2023-04-27T05:19:55-04:00",
+                "tax_exemptions": [],
+                "verified_email": true,
+                "default_address": {
+                    "id": 9116283666754,
+                    "zip": "90065",
+                    "city": "Los Angeles",
+                    "name": "Test4",
+                    "phone": null,
+                    "company": null,
+                    "country": "United States",
+                    "default": true,
+                    "address1": "Revenge Of",
+                    "address2": "Unit #1",
+                    "province": "California",
+                    "last_name": "Test4",
+                    "first_name": null,
+                    "customer_id": 6792584331586,
+                    "country_code": "US",
+                    "country_name": "United States",
+                    "province_code": "CA"
+                },
+                "accepts_marketing": false,
+                "admin_graphql_api_id": "gid://shopify/Customer/6792584331586",
+                "multipass_identifier": null,
+                "sms_marketing_consent": null,
+                "marketing_opt_in_level": null,
+                "email_marketing_consent": {
+                    "state": "not_subscribed",
+                    "opt_in_level": "single_opt_in",
+                    "consent_updated_at": null
+                },
+                "accepts_marketing_updated_at": "2023-02-27T03:42:49-05:00"
+            },
+            "closed_at": null,
+            "confirmed": true,
+            "device_id": null,
+            "reference": "ac2cd9b1db476d0594dcb45e418770fa",
+            "tax_lines": [],
+            "total_tax": "0.00",
+            "browser_ip": "78.80.80.104",
+            "cart_token": null,
+            "created_at": "2023-04-27T05:19:54-04:00",
+            "line_items": [
+                {
+                    "id": 13850218168642,
+                    "sku": "",
+                    "name": "The Collection Snowboard: Oxygen",
+                    "grams": 0,
+                    "price": "1025.00",
+                    "title": "The Collection Snowboard: Oxygen",
+                    "duties": [],
+                    "vendor": "Hydrogen Vendor",
+                    "taxable": true,
+                    "quantity": 1,
+                    "gift_card": false,
+                    "price_set": {
+                        "shop_money": {
+                            "amount": "1025.00",
+                            "currency_code": "USD"
+                        },
+                        "presentment_money": {
+                            "amount": "1025.00",
+                            "currency_code": "USD"
+                        }
+                    },
+                    "tax_lines": [],
+                    "product_id": 8156464513346,
+                    "properties": [],
+                    "variant_id": 44612949868866,
+                    "variant_title": null,
+                    "product_exists": true,
+                    "total_discount": "0.00",
+                    "requires_shipping": true,
+                    "fulfillment_status": null,
+                    "total_discount_set": {
+                        "shop_money": {
+                            "amount": "0.00",
+                            "currency_code": "USD"
+                        },
+                        "presentment_money": {
+                            "amount": "0.00",
+                            "currency_code": "USD"
+                        }
+                    },
+                    "fulfillment_service": "manual",
+                    "admin_graphql_api_id": "gid://shopify/LineItem/13850218168642",
+                    "discount_allocations": [],
+                    "fulfillable_quantity": 1,
+                    "variant_inventory_management": "shopify"
+                }
+            ],
+            "source_url": null,
+            "updated_at": "2023-04-27T05:19:55-04:00",
+            "checkout_id": 36721686675778,
+            "location_id": null,
+            "source_name": "shopify_draft_order",
+            "total_price": "1025.00",
+            "cancelled_at": null,
+            "fulfillments": [],
+            "landing_site": null,
+            "order_number": 1014,
+            "processed_at": "2023-04-27T05:19:53-04:00",
+            "total_weight": 0,
+            "cancel_reason": null,
+            "contact_email": "jan.balaz@gorgias.com",
+            "payment_terms": null,
+            "total_tax_set": {
+                "shop_money": {
+                    "amount": "0.00",
+                    "currency_code": "USD"
+                },
+                "presentment_money": {
+                    "amount": "0.00",
+                    "currency_code": "USD"
+                }
+            },
+            "checkout_token": "f7503f049ce1a9386b84e505865f0da8",
+            "client_details": {
+                "browser_ip": "78.80.80.104",
+                "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36",
+                "session_hash": null,
+                "browser_width": null,
+                "browser_height": null,
+                "accept_language": null
+            },
+            "discount_codes": [],
+            "referring_site": null,
+            "shipping_lines": [],
+            "subtotal_price": "1025.00",
+            "taxes_included": false,
+            "billing_address": {
+                "zip": "90065",
+                "city": "Los Angeles",
+                "name": "Test4",
+                "phone": null,
+                "company": null,
+                "country": "United States",
+                "address1": "Revenge Of",
+                "address2": "Unit #1",
+                "latitude": null,
+                "province": "California",
+                "last_name": "Test4",
+                "longitude": null,
+                "first_name": null,
+                "country_code": "US",
+                "province_code": "CA"
+            },
+            "customer_locale": "en",
+            "estimated_taxes": false,
+            "note_attributes": [],
+            "total_discounts": "0.00",
+            "total_price_set": {
+                "shop_money": {
+                    "amount": "1025.00",
+                    "currency_code": "USD"
+                },
+                "presentment_money": {
+                    "amount": "1025.00",
+                    "currency_code": "USD"
+                }
+            },
+            "financial_status": "paid",
+            "landing_site_ref": null,
+            "order_status_url": "https://janbalaz-test-2.myshopify.com/72920629570/orders/588dfc04074f544df479cbb5fab2f240/authenticate?key=2e8b02dfe9d0da56ac9a452fdec0e92e",
+            "shipping_address": {
+                "zip": "90065",
+                "city": "Los Angeles",
+                "name": "Test4",
+                "phone": null,
+                "company": null,
+                "country": "United States",
+                "address1": "Revenge Of",
+                "address2": "Unit #1",
+                "latitude": 34.1145379,
+                "province": "California",
+                "last_name": "Test4",
+                "longitude": -118.2358856,
+                "first_name": null,
+                "country_code": "US",
+                "province_code": "CA"
+            },
+            "current_total_tax": "0.00",
+            "source_identifier": "ac2cd9b1db476d0594dcb45e418770fa",
+            "total_outstanding": "0.00",
+            "fulfillment_status": null,
+            "subtotal_price_set": {
+                "shop_money": {
+                    "amount": "1025.00",
+                    "currency_code": "USD"
+                },
+                "presentment_money": {
+                    "amount": "1025.00",
+                    "currency_code": "USD"
+                }
+            },
+            "total_tip_received": "0.00",
+            "current_total_price": "1025.00",
+            "total_discounts_set": {
+                "shop_money": {
+                    "amount": "0.00",
+                    "currency_code": "USD"
+                },
+                "presentment_money": {
+                    "amount": "0.00",
+                    "currency_code": "USD"
+                }
+            },
+            "admin_graphql_api_id": "gid://shopify/Order/5297423941954",
+            "presentment_currency": "USD",
+            "current_total_tax_set": {
+                "shop_money": {
+                    "amount": "0.00",
+                    "currency_code": "USD"
+                },
+                "presentment_money": {
+                    "amount": "0.00",
+                    "currency_code": "USD"
+                }
+            },
+            "discount_applications": [],
+            "payment_gateway_names": [
+                "manual"
+            ],
+            "current_subtotal_price": "1025.00",
+            "total_line_items_price": "1025.00",
+            "buyer_accepts_marketing": false,
+            "current_total_discounts": "0.00",
+            "current_total_price_set": {
+                "shop_money": {
+                    "amount": "1025.00",
+                    "currency_code": "USD"
+                },
+                "presentment_money": {
+                    "amount": "1025.00",
+                    "currency_code": "USD"
+                }
+            },
+            "current_total_duties_set": null,
+            "total_shipping_price_set": {
+                "shop_money": {
+                    "amount": "0.00",
+                    "currency_code": "USD"
+                },
+                "presentment_money": {
+                    "amount": "0.00",
+                    "currency_code": "USD"
+                }
+            },
+            "merchant_of_record_app_id": null,
+            "original_total_duties_set": null,
+            "current_subtotal_price_set": {
+                "shop_money": {
+                    "amount": "1025.00",
+                    "currency_code": "USD"
+                },
+                "presentment_money": {
+                    "amount": "1025.00",
+                    "currency_code": "USD"
+                }
+            },
+            "total_line_items_price_set": {
+                "shop_money": {
+                    "amount": "1025.00",
+                    "currency_code": "USD"
+                },
+                "presentment_money": {
+                    "amount": "1025.00",
+                    "currency_code": "USD"
+                }
+            },
+            "current_total_discounts_set": {
+                "shop_money": {
+                    "amount": "0.00",
+                    "currency_code": "USD"
+                },
+                "presentment_money": {
+                    "amount": "0.00",
+                    "currency_code": "USD"
+                }
+            },
+            "current_total_additional_fees_set": null,
+            "original_total_additional_fees_set": null
+        },
+        {
+            "id": 5297422336322,
+            "name": "#1013",
+            "note": null,
+            "tags": "",
+            "test": false,
+            "email": "jan.balaz@gorgias.com",
+            "phone": null,
+            "token": "f39edec3b78a9e5d55cc5b34f8c8b48b",
+            "app_id": 1354745,
+            "number": 13,
+            "gateway": "manual",
+            "refunds": [],
+            "user_id": 93211722050,
+            "currency": "USD",
+            "customer": {
+                "id": 6792584331586,
+                "note": "",
+                "tags": "",
+                "email": "jan.balaz@gorgias.com",
+                "phone": null,
+                "state": "disabled",
+                "currency": "USD",
+                "last_name": "Test4",
+                "created_at": "2023-02-27T03:42:49-05:00",
+                "first_name": null,
+                "tax_exempt": false,
+                "updated_at": "2023-04-27T05:15:26-04:00",
+                "tax_exemptions": [],
+                "verified_email": true,
+                "default_address": {
+                    "id": 9116283666754,
+                    "zip": "90065",
+                    "city": "Los Angeles",
+                    "name": "Test4",
+                    "phone": null,
+                    "company": null,
+                    "country": "United States",
+                    "default": true,
+                    "address1": "Revenge Of",
+                    "address2": "Unit #1",
+                    "province": "California",
+                    "last_name": "Test4",
+                    "first_name": null,
+                    "customer_id": 6792584331586,
+                    "country_code": "US",
+                    "country_name": "United States",
+                    "province_code": "CA"
+                },
+                "accepts_marketing": false,
+                "admin_graphql_api_id": "gid://shopify/Customer/6792584331586",
+                "multipass_identifier": null,
+                "sms_marketing_consent": null,
+                "marketing_opt_in_level": null,
+                "email_marketing_consent": {
+                    "state": "not_subscribed",
+                    "opt_in_level": "single_opt_in",
+                    "consent_updated_at": null
+                },
+                "accepts_marketing_updated_at": "2023-02-27T03:42:49-05:00"
+            },
+            "closed_at": null,
+            "confirmed": true,
+            "device_id": null,
+            "reference": "403261ff2146bb21e96f763833eacf00",
+            "tax_lines": [],
+            "total_tax": "0.00",
+            "browser_ip": "78.80.80.104",
+            "cart_token": null,
+            "created_at": "2023-04-27T05:15:26-04:00",
+            "line_items": [
+                {
+                    "id": 13850216005954,
+                    "sku": "",
+                    "name": "The Collection Snowboard: Oxygen",
+                    "grams": 0,
+                    "price": "1025.00",
+                    "title": "The Collection Snowboard: Oxygen",
+                    "duties": [],
+                    "vendor": "Hydrogen Vendor",
+                    "taxable": true,
+                    "quantity": 1,
+                    "gift_card": false,
+                    "price_set": {
+                        "shop_money": {
+                            "amount": "1025.00",
+                            "currency_code": "USD"
+                        },
+                        "presentment_money": {
+                            "amount": "1025.00",
+                            "currency_code": "USD"
+                        }
+                    },
+                    "tax_lines": [],
+                    "product_id": 8156464513346,
+                    "properties": [],
+                    "variant_id": 44612949868866,
+                    "variant_title": null,
+                    "product_exists": true,
+                    "total_discount": "0.00",
+                    "origin_location": {
+                        "id": 3770034422082,
+                        "zip": "",
+                        "city": "",
+                        "name": "Shop location",
+                        "address1": "",
+                        "address2": "",
+                        "country_code": "US",
+                        "province_code": ""
+                    },
+                    "requires_shipping": true,
+                    "fulfillment_status": null,
+                    "total_discount_set": {
+                        "shop_money": {
+                            "amount": "0.00",
+                            "currency_code": "USD"
+                        },
+                        "presentment_money": {
+                            "amount": "0.00",
+                            "currency_code": "USD"
+                        }
+                    },
+                    "fulfillment_service": "manual",
+                    "admin_graphql_api_id": "gid://shopify/LineItem/13850216005954",
+                    "discount_allocations": [],
+                    "fulfillable_quantity": 1,
+                    "variant_inventory_management": "shopify"
+                }
+            ],
+            "source_url": null,
+            "updated_at": "2023-04-27T05:15:27-04:00",
+            "checkout_id": 36721682547010,
+            "location_id": null,
+            "source_name": "shopify_draft_order",
+            "total_price": "1025.00",
+            "cancelled_at": null,
+            "fulfillments": [],
+            "landing_site": null,
+            "order_number": 1013,
+            "processed_at": "2023-04-27T05:15:25-04:00",
+            "total_weight": 0,
+            "cancel_reason": null,
+            "contact_email": "jan.balaz@gorgias.com",
+            "payment_terms": null,
+            "total_tax_set": {
+                "shop_money": {
+                    "amount": "0.00",
+                    "currency_code": "USD"
+                },
+                "presentment_money": {
+                    "amount": "0.00",
+                    "currency_code": "USD"
+                }
+            },
+            "checkout_token": "aa870a163cbd1de6dfe94f34506bd484",
+            "client_details": {
+                "browser_ip": "78.80.80.104",
+                "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36",
+                "session_hash": null,
+                "browser_width": null,
+                "browser_height": null,
+                "accept_language": null
+            },
+            "discount_codes": [],
+            "referring_site": null,
+            "shipping_lines": [],
+            "subtotal_price": "1025.00",
+            "taxes_included": false,
+            "billing_address": {
+                "zip": "90065",
+                "city": "Los Angeles",
+                "name": "Test4",
+                "phone": null,
+                "company": null,
+                "country": "United States",
+                "address1": "Revenge Of",
+                "address2": "Unit #1",
+                "latitude": 34.1145379,
+                "province": "California",
+                "last_name": "Test4",
+                "longitude": -118.2358856,
+                "first_name": null,
+                "country_code": "US",
+                "province_code": "CA"
+            },
+            "customer_locale": "en",
+            "estimated_taxes": false,
+            "note_attributes": [],
+            "total_discounts": "0.00",
+            "total_price_set": {
+                "shop_money": {
+                    "amount": "1025.00",
+                    "currency_code": "USD"
+                },
+                "presentment_money": {
+                    "amount": "1025.00",
+                    "currency_code": "USD"
+                }
+            },
+            "total_price_usd": "1025.00",
+            "financial_status": "paid",
+            "landing_site_ref": null,
+            "order_status_url": "https://janbalaz-test-2.myshopify.com/72920629570/orders/f39edec3b78a9e5d55cc5b34f8c8b48b/authenticate?key=ee6f6713359b91a7d70d0573044e53d7",
+            "shipping_address": {
+                "zip": "90065",
+                "city": "Los Angeles",
+                "name": "Test4",
+                "phone": null,
+                "company": null,
+                "country": "United States",
+                "address1": "Revenge Of",
+                "address2": "Unit #1",
+                "latitude": null,
+                "province": "California",
+                "last_name": "Test4",
+                "longitude": null,
+                "first_name": null,
+                "country_code": "US",
+                "province_code": "CA"
+            },
+            "current_total_tax": "0.00",
+            "processing_method": "manual",
+            "source_identifier": "403261ff2146bb21e96f763833eacf00",
+            "total_outstanding": "0.00",
+            "fulfillment_status": null,
+            "subtotal_price_set": {
+                "shop_money": {
+                    "amount": "1025.00",
+                    "currency_code": "USD"
+                },
+                "presentment_money": {
+                    "amount": "1025.00",
+                    "currency_code": "USD"
+                }
+            },
+            "total_tip_received": "0.00",
+            "current_total_price": "1025.00",
+            "total_discounts_set": {
+                "shop_money": {
+                    "amount": "0.00",
+                    "currency_code": "USD"
+                },
+                "presentment_money": {
+                    "amount": "0.00",
+                    "currency_code": "USD"
+                }
+            },
+            "admin_graphql_api_id": "gid://shopify/Order/5297422336322",
+            "presentment_currency": "USD",
+            "current_total_tax_set": {
+                "shop_money": {
+                    "amount": "0.00",
+                    "currency_code": "USD"
+                },
+                "presentment_money": {
+                    "amount": "0.00",
+                    "currency_code": "USD"
+                }
+            },
+            "discount_applications": [],
+            "payment_gateway_names": [
+                "manual"
+            ],
+            "current_subtotal_price": "1025.00",
+            "total_line_items_price": "1025.00",
+            "buyer_accepts_marketing": false,
+            "current_total_discounts": "0.00",
+            "current_total_price_set": {
+                "shop_money": {
+                    "amount": "1025.00",
+                    "currency_code": "USD"
+                },
+                "presentment_money": {
+                    "amount": "1025.00",
+                    "currency_code": "USD"
+                }
+            },
+            "current_total_duties_set": null,
+            "total_shipping_price_set": {
+                "shop_money": {
+                    "amount": "0.00",
+                    "currency_code": "USD"
+                },
+                "presentment_money": {
+                    "amount": "0.00",
+                    "currency_code": "USD"
+                }
+            },
+            "original_total_duties_set": null,
+            "current_subtotal_price_set": {
+                "shop_money": {
+                    "amount": "1025.00",
+                    "currency_code": "USD"
+                },
+                "presentment_money": {
+                    "amount": "1025.00",
+                    "currency_code": "USD"
+                }
+            },
+            "total_line_items_price_set": {
+                "shop_money": {
+                    "amount": "1025.00",
+                    "currency_code": "USD"
+                },
+                "presentment_money": {
+                    "amount": "1025.00",
+                    "currency_code": "USD"
+                }
+            },
+            "current_total_discounts_set": {
+                "shop_money": {
+                    "amount": "0.00",
+                    "currency_code": "USD"
+                },
+                "presentment_money": {
+                    "amount": "0.00",
+                    "currency_code": "USD"
+                }
+            }
+        },
+        {
+            "id": 5297420861762,
+            "name": "#1012",
+            "note": null,
+            "tags": "",
+            "test": false,
+            "email": "jan.balaz@gorgias.com",
+            "phone": null,
+            "token": "2540602fb0e7ce18af7b45a9d9f50c98",
+            "app_id": 1354745,
+            "number": 12,
+            "gateway": "manual",
+            "refunds": [],
+            "user_id": 93211722050,
+            "currency": "USD",
+            "customer": {
+                "id": 6792584331586,
+                "note": "",
+                "tags": "",
+                "email": "jan.balaz@gorgias.com",
+                "phone": null,
+                "state": "disabled",
+                "currency": "USD",
+                "last_name": "Test4",
+                "created_at": "2023-02-27T03:42:49-05:00",
+                "first_name": null,
+                "tax_exempt": false,
+                "updated_at": "2023-04-27T05:15:26-04:00",
+                "tax_exemptions": [],
+                "verified_email": true,
+                "default_address": {
+                    "id": 9116283666754,
+                    "zip": "90065",
+                    "city": "Los Angeles",
+                    "name": "Test4",
+                    "phone": null,
+                    "company": null,
+                    "country": "United States",
+                    "default": true,
+                    "address1": "Revenge Of",
+                    "address2": "Unit #1",
+                    "province": "California",
+                    "last_name": "Test4",
+                    "first_name": null,
+                    "customer_id": 6792584331586,
+                    "country_code": "US",
+                    "country_name": "United States",
+                    "province_code": "CA"
+                },
+                "accepts_marketing": false,
+                "admin_graphql_api_id": "gid://shopify/Customer/6792584331586",
+                "multipass_identifier": null,
+                "sms_marketing_consent": null,
+                "marketing_opt_in_level": null,
+                "email_marketing_consent": {
+                    "state": "not_subscribed",
+                    "opt_in_level": "single_opt_in",
+                    "consent_updated_at": null
+                },
+                "accepts_marketing_updated_at": "2023-02-27T03:42:49-05:00"
+            },
+            "closed_at": null,
+            "confirmed": true,
+            "device_id": null,
+            "reference": "dd842be2e552cdafcb0da566059497dd",
+            "tax_lines": [],
+            "total_tax": "0.00",
+            "browser_ip": "78.80.80.104",
+            "cart_token": null,
+            "created_at": "2023-04-27T05:14:01-04:00",
+            "line_items": [
+                {
+                    "id": 13850213384514,
+                    "sku": "",
+                    "name": "The Collection Snowboard: Oxygen",
+                    "grams": 0,
+                    "price": "1025.00",
+                    "title": "The Collection Snowboard: Oxygen",
+                    "duties": [],
+                    "vendor": "Hydrogen Vendor",
+                    "taxable": true,
+                    "quantity": 1,
+                    "gift_card": false,
+                    "price_set": {
+                        "shop_money": {
+                            "amount": "1025.00",
+                            "currency_code": "USD"
+                        },
+                        "presentment_money": {
+                            "amount": "1025.00",
+                            "currency_code": "USD"
+                        }
+                    },
+                    "tax_lines": [],
+                    "product_id": 8156464513346,
+                    "properties": [],
+                    "variant_id": 44612949868866,
+                    "variant_title": null,
+                    "product_exists": true,
+                    "total_discount": "0.00",
+                    "origin_location": {
+                        "id": 3770034422082,
+                        "zip": "",
+                        "city": "",
+                        "name": "Shop location",
+                        "address1": "",
+                        "address2": "",
+                        "country_code": "US",
+                        "province_code": ""
+                    },
+                    "requires_shipping": true,
+                    "fulfillment_status": null,
+                    "total_discount_set": {
+                        "shop_money": {
+                            "amount": "0.00",
+                            "currency_code": "USD"
+                        },
+                        "presentment_money": {
+                            "amount": "0.00",
+                            "currency_code": "USD"
+                        }
+                    },
+                    "fulfillment_service": "manual",
+                    "admin_graphql_api_id": "gid://shopify/LineItem/13850213384514",
+                    "discount_allocations": [],
+                    "fulfillable_quantity": 1,
+                    "variant_inventory_management": "shopify"
+                }
+            ],
+            "source_url": null,
+            "updated_at": "2023-04-27T05:14:02-04:00",
+            "checkout_id": 36721681531202,
+            "location_id": null,
+            "source_name": "shopify_draft_order",
+            "total_price": "1025.00",
+            "cancelled_at": null,
+            "fulfillments": [],
+            "landing_site": null,
+            "order_number": 1012,
+            "processed_at": "2023-04-27T05:14:00-04:00",
+            "total_weight": 0,
+            "cancel_reason": null,
+            "contact_email": "jan.balaz@gorgias.com",
+            "payment_terms": null,
+            "total_tax_set": {
+                "shop_money": {
+                    "amount": "0.00",
+                    "currency_code": "USD"
+                },
+                "presentment_money": {
+                    "amount": "0.00",
+                    "currency_code": "USD"
+                }
+            },
+            "checkout_token": "045acb447865f8d17117f098aa187e07",
+            "client_details": {
+                "browser_ip": "78.80.80.104",
+                "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36",
+                "session_hash": null,
+                "browser_width": null,
+                "browser_height": null,
+                "accept_language": null
+            },
+            "discount_codes": [],
+            "referring_site": null,
+            "shipping_lines": [],
+            "subtotal_price": "1025.00",
+            "taxes_included": false,
+            "billing_address": {
+                "zip": "90065",
+                "city": "Los Angeles",
+                "name": "Test4",
+                "phone": null,
+                "company": null,
+                "country": "United States",
+                "address1": "Revenge Of",
+                "address2": "Unit #1",
+                "latitude": 34.1145379,
+                "province": "California",
+                "last_name": "Test4",
+                "longitude": -118.2358856,
+                "first_name": null,
+                "country_code": "US",
+                "province_code": "CA"
+            },
+            "customer_locale": "en",
+            "estimated_taxes": false,
+            "note_attributes": [],
+            "total_discounts": "0.00",
+            "total_price_set": {
+                "shop_money": {
+                    "amount": "1025.00",
+                    "currency_code": "USD"
+                },
+                "presentment_money": {
+                    "amount": "1025.00",
+                    "currency_code": "USD"
+                }
+            },
+            "total_price_usd": "1025.00",
+            "financial_status": "paid",
+            "landing_site_ref": null,
+            "order_status_url": "https://janbalaz-test-2.myshopify.com/72920629570/orders/2540602fb0e7ce18af7b45a9d9f50c98/authenticate?key=af06dcaef4cf57c97503cc32f6e13fd7",
+            "shipping_address": {
+                "zip": "90065",
+                "city": "Los Angeles",
+                "name": "Test4",
+                "phone": null,
+                "company": null,
+                "country": "United States",
+                "address1": "Revenge Of",
+                "address2": "Unit #1",
+                "latitude": 34.1145379,
+                "province": "California",
+                "last_name": "Test4",
+                "longitude": -118.2358856,
+                "first_name": null,
+                "country_code": "US",
+                "province_code": "CA"
+            },
+            "current_total_tax": "0.00",
+            "processing_method": "manual",
+            "source_identifier": "dd842be2e552cdafcb0da566059497dd",
+            "total_outstanding": "0.00",
+            "fulfillment_status": null,
+            "subtotal_price_set": {
+                "shop_money": {
+                    "amount": "1025.00",
+                    "currency_code": "USD"
+                },
+                "presentment_money": {
+                    "amount": "1025.00",
+                    "currency_code": "USD"
+                }
+            },
+            "total_tip_received": "0.00",
+            "current_total_price": "1025.00",
+            "total_discounts_set": {
+                "shop_money": {
+                    "amount": "0.00",
+                    "currency_code": "USD"
+                },
+                "presentment_money": {
+                    "amount": "0.00",
+                    "currency_code": "USD"
+                }
+            },
+            "admin_graphql_api_id": "gid://shopify/Order/5297420861762",
+            "presentment_currency": "USD",
+            "current_total_tax_set": {
+                "shop_money": {
+                    "amount": "0.00",
+                    "currency_code": "USD"
+                },
+                "presentment_money": {
+                    "amount": "0.00",
+                    "currency_code": "USD"
+                }
+            },
+            "discount_applications": [],
+            "payment_gateway_names": [
+                "manual"
+            ],
+            "current_subtotal_price": "1025.00",
+            "total_line_items_price": "1025.00",
+            "buyer_accepts_marketing": false,
+            "current_total_discounts": "0.00",
+            "current_total_price_set": {
+                "shop_money": {
+                    "amount": "1025.00",
+                    "currency_code": "USD"
+                },
+                "presentment_money": {
+                    "amount": "1025.00",
+                    "currency_code": "USD"
+                }
+            },
+            "current_total_duties_set": null,
+            "total_shipping_price_set": {
+                "shop_money": {
+                    "amount": "0.00",
+                    "currency_code": "USD"
+                },
+                "presentment_money": {
+                    "amount": "0.00",
+                    "currency_code": "USD"
+                }
+            },
+            "original_total_duties_set": null,
+            "current_subtotal_price_set": {
+                "shop_money": {
+                    "amount": "1025.00",
+                    "currency_code": "USD"
+                },
+                "presentment_money": {
+                    "amount": "1025.00",
+                    "currency_code": "USD"
+                }
+            },
+            "total_line_items_price_set": {
+                "shop_money": {
+                    "amount": "1025.00",
+                    "currency_code": "USD"
+                },
+                "presentment_money": {
+                    "amount": "1025.00",
+                    "currency_code": "USD"
+                }
+            },
+            "current_total_discounts_set": {
+                "shop_money": {
+                    "amount": "0.00",
+                    "currency_code": "USD"
+                },
+                "presentment_money": {
+                    "amount": "0.00",
+                    "currency_code": "USD"
+                }
+            }
+        },
+        {
+            "id": 5297417126210,
+            "name": "#1011",
+            "note": null,
+            "tags": "",
+            "test": false,
+            "email": "jan.balaz@gorgias.com",
+            "phone": null,
+            "token": "1280aaed71f4b7324b83489722667598",
+            "app_id": 1354745,
+            "number": 11,
+            "gateway": "manual",
+            "refunds": [],
+            "user_id": 93211722050,
+            "currency": "USD",
+            "customer": {
+                "id": 6792584331586,
+                "note": "",
+                "tags": "",
+                "email": "jan.balaz@gorgias.com",
+                "phone": null,
+                "state": "disabled",
+                "currency": "USD",
+                "last_name": "Test4",
+                "created_at": "2023-02-27T03:42:49-05:00",
+                "first_name": null,
+                "tax_exempt": false,
+                "updated_at": "2023-04-27T05:15:26-04:00",
+                "tax_exemptions": [],
+                "verified_email": true,
+                "default_address": {
+                    "id": 9116283666754,
+                    "zip": "90065",
+                    "city": "Los Angeles",
+                    "name": "Test4",
+                    "phone": null,
+                    "company": null,
+                    "country": "United States",
+                    "default": true,
+                    "address1": "Revenge Of",
+                    "address2": "Unit #1",
+                    "province": "California",
+                    "last_name": "Test4",
+                    "first_name": null,
+                    "customer_id": 6792584331586,
+                    "country_code": "US",
+                    "country_name": "United States",
+                    "province_code": "CA"
+                },
+                "accepts_marketing": false,
+                "admin_graphql_api_id": "gid://shopify/Customer/6792584331586",
+                "multipass_identifier": null,
+                "sms_marketing_consent": null,
+                "marketing_opt_in_level": null,
+                "email_marketing_consent": {
+                    "state": "not_subscribed",
+                    "opt_in_level": "single_opt_in",
+                    "consent_updated_at": null
+                },
+                "accepts_marketing_updated_at": "2023-02-27T03:42:49-05:00"
+            },
+            "closed_at": null,
+            "confirmed": true,
+            "device_id": null,
+            "reference": "9a7a7edbe34065a04c36de632b7ae7a0",
+            "tax_lines": [],
+            "total_tax": "0.00",
+            "browser_ip": "78.80.80.104",
+            "cart_token": null,
+            "created_at": "2023-04-27T05:08:37-04:00",
+            "line_items": [
+                {
+                    "id": 13850207781186,
+                    "sku": "",
+                    "name": "The Collection Snowboard: Oxygen",
+                    "grams": 0,
+                    "price": "1025.00",
+                    "title": "The Collection Snowboard: Oxygen",
+                    "duties": [],
+                    "vendor": "Hydrogen Vendor",
+                    "taxable": true,
+                    "quantity": 1,
+                    "gift_card": false,
+                    "price_set": {
+                        "shop_money": {
+                            "amount": "1025.00",
+                            "currency_code": "USD"
+                        },
+                        "presentment_money": {
+                            "amount": "1025.00",
+                            "currency_code": "USD"
+                        }
+                    },
+                    "tax_lines": [],
+                    "product_id": 8156464513346,
+                    "properties": [],
+                    "variant_id": 44612949868866,
+                    "variant_title": null,
+                    "product_exists": true,
+                    "total_discount": "0.00",
+                    "origin_location": {
+                        "id": 3770034422082,
+                        "zip": "",
+                        "city": "",
+                        "name": "Shop location",
+                        "address1": "",
+                        "address2": "",
+                        "country_code": "US",
+                        "province_code": ""
+                    },
+                    "requires_shipping": true,
+                    "fulfillment_status": null,
+                    "total_discount_set": {
+                        "shop_money": {
+                            "amount": "0.00",
+                            "currency_code": "USD"
+                        },
+                        "presentment_money": {
+                            "amount": "0.00",
+                            "currency_code": "USD"
+                        }
+                    },
+                    "fulfillment_service": "manual",
+                    "admin_graphql_api_id": "gid://shopify/LineItem/13850207781186",
+                    "discount_allocations": [],
+                    "fulfillable_quantity": 1,
+                    "variant_inventory_management": "shopify"
+                }
+            ],
+            "source_url": null,
+            "updated_at": "2023-04-27T05:08:38-04:00",
+            "checkout_id": 36721676845378,
+            "location_id": null,
+            "source_name": "shopify_draft_order",
+            "total_price": "1025.00",
+            "cancelled_at": null,
+            "fulfillments": [],
+            "landing_site": null,
+            "order_number": 1011,
+            "processed_at": "2023-04-27T05:08:36-04:00",
+            "total_weight": 0,
+            "cancel_reason": null,
+            "contact_email": "jan.balaz@gorgias.com",
+            "payment_terms": null,
+            "total_tax_set": {
+                "shop_money": {
+                    "amount": "0.00",
+                    "currency_code": "USD"
+                },
+                "presentment_money": {
+                    "amount": "0.00",
+                    "currency_code": "USD"
+                }
+            },
+            "checkout_token": "45460097e081687246b1ddbef028fc3c",
+            "client_details": {
+                "browser_ip": "78.80.80.104",
+                "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36",
+                "session_hash": null,
+                "browser_width": null,
+                "browser_height": null,
+                "accept_language": null
+            },
+            "discount_codes": [],
+            "referring_site": null,
+            "shipping_lines": [],
+            "subtotal_price": "1025.00",
+            "taxes_included": false,
+            "billing_address": {
+                "zip": "90065",
+                "city": "Los Angeles",
+                "name": "Test4",
+                "phone": null,
+                "company": null,
+                "country": "United States",
+                "address1": "Revenge Of",
+                "address2": "Unit #1",
+                "latitude": null,
+                "province": "California",
+                "last_name": "Test4",
+                "longitude": null,
+                "first_name": null,
+                "country_code": "US",
+                "province_code": "CA"
+            },
+            "customer_locale": "en",
+            "estimated_taxes": false,
+            "note_attributes": [],
+            "total_discounts": "0.00",
+            "total_price_set": {
+                "shop_money": {
+                    "amount": "1025.00",
+                    "currency_code": "USD"
+                },
+                "presentment_money": {
+                    "amount": "1025.00",
+                    "currency_code": "USD"
+                }
+            },
+            "total_price_usd": "1025.00",
+            "financial_status": "paid",
+            "landing_site_ref": null,
+            "order_status_url": "https://janbalaz-test-2.myshopify.com/72920629570/orders/1280aaed71f4b7324b83489722667598/authenticate?key=56d02d54e735389b01073f37b01641e8",
+            "shipping_address": {
+                "zip": "90065",
+                "city": "Los Angeles",
+                "name": "Test4",
+                "phone": null,
+                "company": null,
+                "country": "United States",
+                "address1": "Revenge Of",
+                "address2": "Unit #1",
+                "latitude": 34.1145379,
+                "province": "California",
+                "last_name": "Test4",
+                "longitude": -118.2358856,
+                "first_name": null,
+                "country_code": "US",
+                "province_code": "CA"
+            },
+            "current_total_tax": "0.00",
+            "processing_method": "manual",
+            "source_identifier": "9a7a7edbe34065a04c36de632b7ae7a0",
+            "total_outstanding": "0.00",
+            "fulfillment_status": null,
+            "subtotal_price_set": {
+                "shop_money": {
+                    "amount": "1025.00",
+                    "currency_code": "USD"
+                },
+                "presentment_money": {
+                    "amount": "1025.00",
+                    "currency_code": "USD"
+                }
+            },
+            "total_tip_received": "0.00",
+            "current_total_price": "1025.00",
+            "total_discounts_set": {
+                "shop_money": {
+                    "amount": "0.00",
+                    "currency_code": "USD"
+                },
+                "presentment_money": {
+                    "amount": "0.00",
+                    "currency_code": "USD"
+                }
+            },
+            "admin_graphql_api_id": "gid://shopify/Order/5297417126210",
+            "presentment_currency": "USD",
+            "current_total_tax_set": {
+                "shop_money": {
+                    "amount": "0.00",
+                    "currency_code": "USD"
+                },
+                "presentment_money": {
+                    "amount": "0.00",
+                    "currency_code": "USD"
+                }
+            },
+            "discount_applications": [],
+            "payment_gateway_names": [
+                "manual"
+            ],
+            "current_subtotal_price": "1025.00",
+            "total_line_items_price": "1025.00",
+            "buyer_accepts_marketing": false,
+            "current_total_discounts": "0.00",
+            "current_total_price_set": {
+                "shop_money": {
+                    "amount": "1025.00",
+                    "currency_code": "USD"
+                },
+                "presentment_money": {
+                    "amount": "1025.00",
+                    "currency_code": "USD"
+                }
+            },
+            "current_total_duties_set": null,
+            "total_shipping_price_set": {
+                "shop_money": {
+                    "amount": "0.00",
+                    "currency_code": "USD"
+                },
+                "presentment_money": {
+                    "amount": "0.00",
+                    "currency_code": "USD"
+                }
+            },
+            "original_total_duties_set": null,
+            "current_subtotal_price_set": {
+                "shop_money": {
+                    "amount": "1025.00",
+                    "currency_code": "USD"
+                },
+                "presentment_money": {
+                    "amount": "1025.00",
+                    "currency_code": "USD"
+                }
+            },
+            "total_line_items_price_set": {
+                "shop_money": {
+                    "amount": "1025.00",
+                    "currency_code": "USD"
+                },
+                "presentment_money": {
+                    "amount": "1025.00",
+                    "currency_code": "USD"
+                }
+            },
+            "current_total_discounts_set": {
+                "shop_money": {
+                    "amount": "0.00",
+                    "currency_code": "USD"
+                },
+                "presentment_money": {
+                    "amount": "0.00",
+                    "currency_code": "USD"
+                }
+            }
+        },
+        {
+            "id": 5297414963522,
+            "name": "#1010",
+            "note": null,
+            "tags": "",
+            "test": true,
+            "email": "jan.balaz@gorgias.com",
+            "phone": null,
+            "token": "5d360ffa7c6428bd15f19c81800aa956",
+            "app_id": 12875497473,
+            "number": 10,
+            "gateway": "bogus",
+            "refunds": [],
+            "user_id": null,
+            "currency": "USD",
+            "customer": {
+                "id": 6792584331586,
+                "note": "",
+                "tags": "",
+                "email": "jan.balaz@gorgias.com",
+                "phone": null,
+                "state": "disabled",
+                "currency": "USD",
+                "last_name": "Test4",
+                "created_at": "2023-02-27T03:42:49-05:00",
+                "first_name": null,
+                "tax_exempt": false,
+                "updated_at": "2023-04-27T05:15:26-04:00",
+                "tax_exemptions": [],
+                "verified_email": true,
+                "default_address": {
+                    "id": 9116283666754,
+                    "zip": "90065",
+                    "city": "Los Angeles",
+                    "name": "Test4",
+                    "phone": null,
+                    "company": null,
+                    "country": "United States",
+                    "default": true,
+                    "address1": "Revenge Of",
+                    "address2": "Unit #1",
+                    "province": "California",
+                    "last_name": "Test4",
+                    "first_name": null,
+                    "customer_id": 6792584331586,
+                    "country_code": "US",
+                    "country_name": "United States",
+                    "province_code": "CA"
+                },
+                "accepts_marketing": false,
+                "admin_graphql_api_id": "gid://shopify/Customer/6792584331586",
+                "multipass_identifier": null,
+                "sms_marketing_consent": null,
+                "marketing_opt_in_level": null,
+                "email_marketing_consent": {
+                    "state": "not_subscribed",
+                    "opt_in_level": "single_opt_in",
+                    "consent_updated_at": null
+                },
+                "accepts_marketing_updated_at": "2023-02-27T03:42:49-05:00"
+            },
+            "closed_at": null,
+            "confirmed": true,
+            "device_id": null,
+            "reference": "e50bf8bcbcf6e6b2c15fe9c07bbc2aea",
+            "tax_lines": [],
+            "total_tax": "0.00",
+            "browser_ip": "78.80.80.104",
+            "cart_token": "c1-62766bea0f08a5add4305f21f91a3ebe",
+            "created_at": "2023-04-27T05:06:03-04:00",
+            "line_items": [
+                {
+                    "id": 13850205421890,
+                    "sku": "",
+                    "name": "The Collection Snowboard: Oxygen",
+                    "grams": 0,
+                    "price": "1025.00",
+                    "title": "The Collection Snowboard: Oxygen",
+                    "duties": [],
+                    "vendor": "Hydrogen Vendor",
+                    "taxable": true,
+                    "quantity": 1,
+                    "gift_card": false,
+                    "price_set": {
+                        "shop_money": {
+                            "amount": "1025.00",
+                            "currency_code": "USD"
+                        },
+                        "presentment_money": {
+                            "amount": "1025.00",
+                            "currency_code": "USD"
+                        }
+                    },
+                    "tax_lines": [],
+                    "product_id": 8156464513346,
+                    "properties": [],
+                    "variant_id": 44612949868866,
+                    "variant_title": null,
+                    "product_exists": true,
+                    "total_discount": "0.00",
+                    "origin_location": {
+                        "id": 3770034422082,
+                        "zip": "",
+                        "city": "",
+                        "name": "Shop location",
+                        "address1": "",
+                        "address2": "",
+                        "country_code": "US",
+                        "province_code": ""
+                    },
+                    "requires_shipping": true,
+                    "fulfillment_status": null,
+                    "total_discount_set": {
+                        "shop_money": {
+                            "amount": "0.00",
+                            "currency_code": "USD"
+                        },
+                        "presentment_money": {
+                            "amount": "0.00",
+                            "currency_code": "USD"
+                        }
+                    },
+                    "fulfillment_service": "manual",
+                    "admin_graphql_api_id": "gid://shopify/LineItem/13850205421890",
+                    "discount_allocations": [],
+                    "fulfillable_quantity": 1,
+                    "variant_inventory_management": "shopify"
+                }
+            ],
+            "source_url": null,
+            "updated_at": "2023-04-27T05:06:04-04:00",
+            "checkout_id": 36721673830722,
+            "location_id": null,
+            "source_name": "12875497473",
+            "total_price": "1025.00",
+            "cancelled_at": null,
+            "fulfillments": [],
+            "landing_site": "/checkouts/cn/c1-62766bea0f08a5add4305f21f91a3ebe",
+            "order_number": 1010,
+            "processed_at": "2023-04-27T05:06:01-04:00",
+            "total_weight": 0,
+            "cancel_reason": null,
+            "contact_email": "jan.balaz@gorgias.com",
+            "payment_terms": null,
+            "total_tax_set": {
+                "shop_money": {
+                    "amount": "0.00",
+                    "currency_code": "USD"
+                },
+                "presentment_money": {
+                    "amount": "0.00",
+                    "currency_code": "USD"
+                }
+            },
+            "checkout_token": "41cffbc8f03efd6f07811202432a36e2",
+            "client_details": {
+                "browser_ip": "78.80.80.104",
+                "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36",
+                "session_hash": null,
+                "browser_width": null,
+                "browser_height": null,
+                "accept_language": "en-US"
+            },
+            "discount_codes": [],
+            "referring_site": "http://localhost:3000/",
+            "shipping_lines": [
+                {
+                    "id": 4335728820546,
+                    "code": "Economy",
+                    "phone": null,
+                    "price": "0.00",
+                    "title": "Economy",
+                    "source": "shopify",
+                    "price_set": {
+                        "shop_money": {
+                            "amount": "0.00",
+                            "currency_code": "USD"
+                        },
+                        "presentment_money": {
+                            "amount": "0.00",
+                            "currency_code": "USD"
+                        }
+                    },
+                    "tax_lines": [],
+                    "discounted_price": "0.00",
+                    "delivery_category": null,
+                    "carrier_identifier": "2ffa3e5d7e0311e260c10350738dd1f0",
+                    "discount_allocations": [],
+                    "discounted_price_set": {
+                        "shop_money": {
+                            "amount": "0.00",
+                            "currency_code": "USD"
+                        },
+                        "presentment_money": {
+                            "amount": "0.00",
+                            "currency_code": "USD"
+                        }
+                    },
+                    "requested_fulfillment_service_id": null
+                }
+            ],
+            "subtotal_price": "1025.00",
+            "taxes_included": false,
+            "billing_address": {
+                "zip": "90065",
+                "city": "Los Angeles",
+                "name": "Test4",
+                "phone": null,
+                "company": null,
+                "country": "United States",
+                "address1": "Revenge Of",
+                "address2": "Unit #1",
+                "latitude": 34.1145379,
+                "province": "California",
+                "last_name": "Test4",
+                "longitude": -118.2358856,
+                "first_name": null,
+                "country_code": "US",
+                "province_code": "CA"
+            },
+            "customer_locale": "en",
+            "estimated_taxes": false,
+            "note_attributes": [],
+            "payment_details": {
+                "avs_result_code": null,
+                "credit_card_bin": "1",
+                "cvv_result_code": null,
+                "buyer_action_info": null,
+                "credit_card_number": "•••• •••• •••• 1",
+                "credit_card_company": "Bogus"
+            },
+            "total_discounts": "0.00",
+            "total_price_set": {
+                "shop_money": {
+                    "amount": "1025.00",
+                    "currency_code": "USD"
+                },
+                "presentment_money": {
+                    "amount": "1025.00",
+                    "currency_code": "USD"
+                }
+            },
+            "total_price_usd": "1025.00",
+            "financial_status": "paid",
+            "landing_site_ref": null,
+            "order_status_url": "https://janbalaz-test-2.myshopify.com/72920629570/orders/5d360ffa7c6428bd15f19c81800aa956/authenticate?key=2c2ff7e39633d82a9e4363dbece07e6e",
+            "shipping_address": {
+                "zip": "90065",
+                "city": "Los Angeles",
+                "name": "Test4",
+                "phone": null,
+                "company": null,
+                "country": "United States",
+                "address1": "Revenge Of",
+                "address2": "Unit #1",
+                "latitude": null,
+                "province": "California",
+                "last_name": "Test4",
+                "longitude": null,
+                "first_name": null,
+                "country_code": "US",
+                "province_code": "CA"
+            },
+            "current_total_tax": "0.00",
+            "processing_method": "direct",
+            "source_identifier": "e50bf8bcbcf6e6b2c15fe9c07bbc2aea",
+            "total_outstanding": "0.00",
+            "fulfillment_status": null,
+            "subtotal_price_set": {
+                "shop_money": {
+                    "amount": "1025.00",
+                    "currency_code": "USD"
+                },
+                "presentment_money": {
+                    "amount": "1025.00",
+                    "currency_code": "USD"
+                }
+            },
+            "total_tip_received": "0.00",
+            "current_total_price": "1025.00",
+            "total_discounts_set": {
+                "shop_money": {
+                    "amount": "0.00",
+                    "currency_code": "USD"
+                },
+                "presentment_money": {
+                    "amount": "0.00",
+                    "currency_code": "USD"
+                }
+            },
+            "admin_graphql_api_id": "gid://shopify/Order/5297414963522",
+            "presentment_currency": "USD",
+            "current_total_tax_set": {
+                "shop_money": {
+                    "amount": "0.00",
+                    "currency_code": "USD"
+                },
+                "presentment_money": {
+                    "amount": "0.00",
+                    "currency_code": "USD"
+                }
+            },
+            "discount_applications": [],
+            "payment_gateway_names": [
+                "bogus"
+            ],
+            "current_subtotal_price": "1025.00",
+            "total_line_items_price": "1025.00",
+            "buyer_accepts_marketing": false,
+            "current_total_discounts": "0.00",
+            "current_total_price_set": {
+                "shop_money": {
+                    "amount": "1025.00",
+                    "currency_code": "USD"
+                },
+                "presentment_money": {
+                    "amount": "1025.00",
+                    "currency_code": "USD"
+                }
+            },
+            "current_total_duties_set": null,
+            "total_shipping_price_set": {
+                "shop_money": {
+                    "amount": "0.00",
+                    "currency_code": "USD"
+                },
+                "presentment_money": {
+                    "amount": "0.00",
+                    "currency_code": "USD"
+                }
+            },
+            "original_total_duties_set": null,
+            "current_subtotal_price_set": {
+                "shop_money": {
+                    "amount": "1025.00",
+                    "currency_code": "USD"
+                },
+                "presentment_money": {
+                    "amount": "1025.00",
+                    "currency_code": "USD"
+                }
+            },
+            "total_line_items_price_set": {
+                "shop_money": {
+                    "amount": "1025.00",
+                    "currency_code": "USD"
+                },
+                "presentment_money": {
+                    "amount": "1025.00",
+                    "currency_code": "USD"
+                }
+            },
+            "current_total_discounts_set": {
+                "shop_money": {
+                    "amount": "0.00",
+                    "currency_code": "USD"
+                },
+                "presentment_money": {
+                    "amount": "0.00",
+                    "currency_code": "USD"
+                }
+            }
+        }
+    ],
+    "customer": {
+        "id": 6792584331586,
+        "note": "",
+        "tags": "",
+        "email": "jan.balaz@gorgias.com",
+        "phone": null,
+        "state": "disabled",
+        "currency": "USD",
+        "addresses": [
+            {
+                "id": 9116302344514,
+                "zip": "02151",
+                "city": "Revere",
+                "name": "Test7",
+                "phone": null,
+                "company": null,
+                "country": "United States",
+                "default": false,
+                "address1": "Revere Beach",
+                "address2": null,
+                "province": "Massachusetts",
+                "last_name": "Test7",
+                "first_name": null,
+                "customer_id": 6792584331586,
+                "country_code": "US",
+                "country_name": "United States",
+                "province_code": "MA"
+            },
+            {
+                "id": 9116289106242,
+                "zip": "02151",
+                "city": "Revere",
+                "name": "Test6",
+                "phone": null,
+                "company": null,
+                "country": "United States",
+                "default": true,
+                "address1": "Revere Beach",
+                "address2": null,
+                "province": "Massachusetts",
+                "last_name": "Test6",
+                "first_name": null,
+                "customer_id": 6792584331586,
+                "country_code": "US",
+                "country_name": "United States",
+                "province_code": "MA"
+            },
+            {
+                "id": 9116283666754,
+                "zip": "90065",
+                "city": "Los Angeles",
+                "name": "Test4",
+                "phone": null,
+                "company": null,
+                "country": "United States",
+                "default": false,
+                "address1": "Revenge Of",
+                "address2": "Unit #1",
+                "province": "California",
+                "last_name": "Test4",
+                "first_name": null,
+                "customer_id": 6792584331586,
+                "country_code": "US",
+                "country_name": "United States",
+                "province_code": "CA"
+            },
+            {
+                "id": 9042478039362,
+                "zip": "",
+                "city": "",
+                "name": "Jan Me",
+                "phone": "",
+                "company": "",
+                "country": "United States",
+                "default": false,
+                "address1": "",
+                "address2": "",
+                "province": "Alabama",
+                "last_name": "Me",
+                "first_name": "Jan",
+                "customer_id": 6792584331586,
+                "country_code": "US",
+                "country_name": "United States",
+                "province_code": "AL"
+            }
+        ],
+        "last_name": "Test4",
+        "created_at": "2023-02-27T03:42:49-05:00",
+        "first_name": null,
+        "tax_exempt": false,
+        "updated_at": "2023-04-27T07:07:16-04:00",
+        "total_spent": "4829.95",
+        "orders_count": 5,
+        "last_order_id": 5297454973250,
+        "tax_exemptions": [],
+        "verified_email": true,
+        "default_address": {
+            "id": 9116289106242,
+            "zip": "02151",
+            "city": "Revere",
+            "name": "Test6",
+            "phone": null,
+            "company": null,
+            "country": "United States",
+            "default": true,
+            "address1": "Revere Beach",
+            "address2": null,
+            "province": "Massachusetts",
+            "last_name": "Test6",
+            "first_name": null,
+            "customer_id": 6792584331586,
+            "country_code": "US",
+            "country_name": "United States",
+            "province_code": "MA"
+        },
+        "last_order_name": "#1017",
+        "accepts_marketing": false,
+        "admin_graphql_api_id": "gid://shopify/Customer/6792584331586",
+        "multipass_identifier": null,
+        "sms_marketing_consent": null,
+        "marketing_opt_in_level": null,
+        "email_marketing_consent": {
+            "state": "not_subscribed",
+            "opt_in_level": "single_opt_in",
+            "consent_updated_at": null
+        },
+        "accepts_marketing_updated_at": "2023-02-27T03:42:49-05:00"
+    }
+}
