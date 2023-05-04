@@ -29,7 +29,7 @@ export function AddToCartButton({
 
   let revenueAttributes = {}
   if (typeof window !== undefined) {
-    revenueAttributes = (window as any).GorgiasChat?.createCartAttributes()
+    revenueAttributes = (window as any).GorgiasConductor?.createCartAttributes()
   }
 
   return (
