@@ -17,6 +17,7 @@ import type {
   UserError,
   CartBuyerIdentityInput,
   CheckoutCreateInput,
+  AttributeInput,
 } from '@shopify/hydrogen/storefront-api-types';
 import {isLocalPath, getCartId} from '~/lib/utils';
 import {CartAction, type CartActions} from '~/lib/type';
@@ -30,6 +31,10 @@ export async function action({request, context}: ActionArgs) {
     request.formData(),
     session.get('customerAccessToken'),
   ]);
+
+  const attributes = formData.get('revenueAttributes') ? 
+    (JSON.parse(String(formData.get('revenueAttributes'))) as Array<AttributeInput>)
+    : [] as Array<AttributeInput>;
 
   const cartAction = formData.get('cartAction') as CartActions;
   invariant(cartAction, 'No cartAction defined');
@@ -59,9 +64,9 @@ export async function action({request, context}: ActionArgs) {
         result = await cartCreate({
           input: countryCode ? {lines, buyerIdentity: {countryCode}} : {lines},
           storefront,
+          attributes,
         });
       } else {
-        console.log(cartId);
         result = await cartAdd({
           cartId,
           lines,
@@ -70,26 +75,21 @@ export async function action({request, context}: ActionArgs) {
 
         const input: CheckoutCreateInput = {
           allowPartialAddresses: true,
-          email: 'jan.balaz@gorgias.com',
+          email: 'something@gorgias.com',
           lineItems: [
             {
               quantity: 1,
               variantId: 'gid://shopify/ProductVariant/44612949836098'
             }
           ],
-          customAttributes: [
-            {
-              key: 'attemptZZZ',
-              value: '4yyy4'
-            }
-          ],
+          customAttributes: attributes,
           shippingAddress: {
-            address1: 'lolzova',
+            address1: 'Main Rd.',
             city: 'San Jose',
             province: 'California',
             country: 'United States',
             zip: '95134',
-            lastName: 'Tester10'
+            lastName: 'Tester'
           }
         }
   
@@ -171,6 +171,7 @@ export async function action({request, context}: ActionArgs) {
               },
             },
             storefront,
+            attributes,
           });
 
       cartId = result.cart.id;
@@ -265,16 +266,22 @@ const CREATE_CART_MUTATION = `#graphql
 export async function cartCreate({
   input,
   storefront,
+  attributes,
 }: {
   input: CartInput;
   storefront: AppLoadContext['storefront'];
+  attributes: Array<AttributeInput>;
 }) {
   input.attributes = [
     {
-      key: 'attemptXXX',
-      value: 'yyy3'
+      key: 'alreadyExistingKey',
+      value: 'some value'
     }
   ]
+  if (attributes !== undefined) {
+    input.attributes = [...input.attributes, ...attributes];
+  }
+  
   const {cartCreate} = await storefront.mutate<{
     cartCreate: {
       cart: CartType;

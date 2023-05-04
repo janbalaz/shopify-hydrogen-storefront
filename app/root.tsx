@@ -94,6 +94,10 @@ export default function App() {
         </Layout>
         <ScrollRestoration />
         <Scripts />
+
+        <script id="gorgias-chat-widget-install-v3" 
+            src="<your_chat_bundle_url>">
+        </script>
       </body>
     </html>
   );
