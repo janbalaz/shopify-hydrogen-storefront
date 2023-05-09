@@ -27,9 +27,9 @@ export function AddToCartButton({
   const fetcher = useFetcher();
   const fetcherIsNotIdle = fetcher.state !== 'idle';
 
-  let revenueAttributes = {}
+  let revenueAttributes = []
   if (typeof window !== undefined) {
-    revenueAttributes = (window as any).GorgiasConductor?.createCartAttributes()
+    revenueAttributes = (window as any).GorgiasBridge?.createCartAttributes()
   }
 
   return (
